@@ -21,3 +21,5 @@ def silly_sum():
 
 if __name__ == "__main__":
     print(f"Answer = {silly_sum()}")
+
+# Easter Egg to break your code
