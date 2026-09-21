@@ -9,7 +9,7 @@ def max_value(numbers):
         if num > max_num:
             max_num = num
 
-    return max_num
+    return num
     
 
     # Trying to break the code
