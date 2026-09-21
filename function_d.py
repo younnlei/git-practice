@@ -12,7 +12,7 @@ def max_value(numbers):
     return num
     
 
-    # Trying to break the code
+    # Trying to revert a commit
 
 if __name__ == "__main__":
     print(max_value([1, 12, 2, 42, 8, 3]))
