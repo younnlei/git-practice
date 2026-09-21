@@ -11,6 +11,7 @@ def most_common_value(number_list):
             frequency_index[num] = 1
 
         if max_frequency < frequency_index[num]:
+            # secret easter egg 2
             max_frequency = frequency_index[num]
             most_common_value = num
 
